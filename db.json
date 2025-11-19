@@ -10,13 +10,5 @@
     "password": "123",
     "role": "user",
     "expired": "2025-12-19T11:51:03.792Z"
-  },
-  {
-    "username": "rahasia",
-    "password": "123",
-    "role": "owner",
-    "expired": null,
-    "createdBy": "SYSTEM_OWNER",
-    "createdAt": "2025-11-19T12:33:00.923Z"
   }
 ]
